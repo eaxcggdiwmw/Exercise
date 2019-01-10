@@ -2,92 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4dba2f3-4807-4a81-814e-9cb7f0e666c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/习题100.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题04.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题06.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题07.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题08.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题09.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题12.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题13.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题14.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题15.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题16.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题17.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题18.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题20.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题23.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题24.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题25.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题26.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题27.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题28.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题29.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题30.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题31.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题32.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题33.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题34.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题35.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题36.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题37.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题38.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题39.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题40.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题41_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题42_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题43_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题44.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题45.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题46.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题47.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题48.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题49_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题50_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题51_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题52_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题53_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题54_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题55_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题56_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题57_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题58_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题59_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题60.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题61.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题62.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题63_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题64_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题65_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题66.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题67.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题68.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题69.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题69_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题70.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题71.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题72.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题73.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题74.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题75_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题76.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题77.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题78.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题79.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题80.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题81.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题98.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/习题99.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题082.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题082.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题083.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题083.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题084.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题084.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题085.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题085.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题086.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题086.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题087.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题087.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题088.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题088.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题089.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题089.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题090.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题090.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题091.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题091.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题092.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题092.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题093.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题093.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题094.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题094.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题095.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题095_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题096.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题096.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题097.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题097.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题098.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题098.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题099.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题099.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/习题100.py" beforeDir="false" afterPath="$PROJECT_DIR$/习题100.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,28 +31,45 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Exercise$57_.coverage" NAME="习题57_ Coverage Results" MODIFIED="1545807286720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$083.coverage" NAME="习题083 Coverage Results" MODIFIED="1546932485535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$49.coverage" NAME="习题49 Coverage Results" MODIFIED="1544778017928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$60.coverage" NAME="习题60 Coverage Results" MODIFIED="1545295918142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$69_1.coverage" NAME="习题69_1 Coverage Results" MODIFIED="1545380168248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$66.coverage" NAME="习题66 Coverage Results" MODIFIED="1545297853319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$81.coverage" NAME="习题81 Coverage Results" MODIFIED="1545732491103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$098.coverage" NAME="习题098 Coverage Results" MODIFIED="1547106175057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$091.coverage" NAME="习题091 Coverage Results" MODIFIED="1546940653340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$089.coverage" NAME="习题089 Coverage Results" MODIFIED="1546940466649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$095.coverage" NAME="习题095 Coverage Results" MODIFIED="1546940995235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$51.coverage" NAME="习题51 Coverage Results" MODIFIED="1545120847005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$80.coverage" NAME="习题80 Coverage Results" MODIFIED="1545731829290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$082.coverage" NAME="习题082 Coverage Results" MODIFIED="1546927475222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$54.coverage" NAME="习题54 Coverage Results" MODIFIED="1545120854209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$77.coverage" NAME="习题77 Coverage Results" MODIFIED="1545728424964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$71.coverage" NAME="习题71 Coverage Results" MODIFIED="1545380426846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$100.coverage" NAME="习题100 Coverage Results" MODIFIED="1547106255217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$087.coverage" NAME="习题087 Coverage Results" MODIFIED="1546933196970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$68.coverage" NAME="习题68 Coverage Results" MODIFIED="1545363124362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$084.coverage" NAME="习题084 Coverage Results" MODIFIED="1546932763073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$74.coverage" NAME="习题74 Coverage Results" MODIFIED="1545384160721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$75_.coverage" NAME="习题75_ Coverage Results" MODIFIED="1545384277905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$096.coverage" NAME="习题096 Coverage Results" MODIFIED="1547104957251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$1.coverage" NAME="习题1 Coverage Results" MODIFIED="1544774604702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$099.coverage" NAME="习题099 Coverage Results" MODIFIED="1547106189928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$62.coverage" NAME="习题62 Coverage Results" MODIFIED="1545296750357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$56_.coverage" NAME="习题56_ Coverage Results" MODIFIED="1545804192950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$090.coverage" NAME="习题090 Coverage Results" MODIFIED="1546940617270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$79.coverage" NAME="习题79 Coverage Results" MODIFIED="1545728684513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$48.coverage" NAME="习题48 Coverage Results" MODIFIED="1544777846202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$76.coverage" NAME="习题76 Coverage Results" MODIFIED="1545728324644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$67.coverage" NAME="习题67 Coverage Results" MODIFIED="1545363049943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$api.coverage" NAME="api定时任务触发 Coverage Results" MODIFIED="1545728009008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$088.coverage" NAME="习题088 Coverage Results" MODIFIED="1546933241029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$085.coverage" NAME="习题085 Coverage Results" MODIFIED="1546932946239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$094.coverage" NAME="习题094 Coverage Results" MODIFIED="1546940918328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$73.coverage" NAME="习题73 Coverage Results" MODIFIED="1545381713245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$092.coverage" NAME="习题092 Coverage Results" MODIFIED="1546940692219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Exercise$097.coverage" NAME="习题097 Coverage Results" MODIFIED="1547105438090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$69.coverage" NAME="习题69 Coverage Results" MODIFIED="1545379858510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$2.coverage" NAME="习题2 Coverage Results" MODIFIED="1544775053773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercise$70.coverage" NAME="习题70 Coverage Results" MODIFIED="1545380243656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -132,32 +83,33 @@
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.70" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="94" />
+          <entry key="py" value="161" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="94" />
+          <entry key="Python" value="161" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="22" />
-          <entry key="py" value="4503" />
+          <entry key="dummy" value="23" />
+          <entry key="py" value="5685" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="4503" />
+          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="Python" value="5685" />
         </counts>
       </usages-collector>
     </session>
@@ -167,8 +119,35 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/习题100.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="126">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/习题097.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/习题098.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/习题099.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -188,24 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/习题55.py" />
-        <option value="$PROJECT_DIR$/习题56_.py" />
-        <option value="$PROJECT_DIR$/习题99.py" />
-        <option value="$PROJECT_DIR$/习题98.py" />
-        <option value="$PROJECT_DIR$/习题57.py" />
-        <option value="$PROJECT_DIR$/习题58.py" />
-        <option value="$PROJECT_DIR$/习题59.py" />
-        <option value="$PROJECT_DIR$/习题60.py" />
-        <option value="$PROJECT_DIR$/习题61.py" />
-        <option value="$PROJECT_DIR$/习题62.py" />
-        <option value="$PROJECT_DIR$/习题63_.py" />
-        <option value="$PROJECT_DIR$/习题64.py" />
-        <option value="$PROJECT_DIR$/习题65.py" />
-        <option value="$PROJECT_DIR$/习题66.py" />
-        <option value="$PROJECT_DIR$/习题67.py" />
-        <option value="$PROJECT_DIR$/习题68.py" />
-        <option value="$PROJECT_DIR$/习题69.py" />
-        <option value="$PROJECT_DIR$/习题69_1.py" />
         <option value="$PROJECT_DIR$/习题70.py" />
         <option value="$PROJECT_DIR$/习题71.py" />
         <option value="$PROJECT_DIR$/习题72.py" />
@@ -238,6 +199,24 @@
         <option value="$PROJECT_DIR$/习题95.py" />
         <option value="$PROJECT_DIR$/习题96.py" />
         <option value="$PROJECT_DIR$/习题97.py" />
+        <option value="$PROJECT_DIR$/习题082.py" />
+        <option value="$PROJECT_DIR$/习题083.py" />
+        <option value="$PROJECT_DIR$/习题084.py" />
+        <option value="$PROJECT_DIR$/习题085.py" />
+        <option value="$PROJECT_DIR$/习题086.py" />
+        <option value="$PROJECT_DIR$/习题087.py" />
+        <option value="$PROJECT_DIR$/习题088.py" />
+        <option value="$PROJECT_DIR$/习题089.py" />
+        <option value="$PROJECT_DIR$/习题090.py" />
+        <option value="$PROJECT_DIR$/习题091.py" />
+        <option value="$PROJECT_DIR$/习题092.py" />
+        <option value="$PROJECT_DIR$/习题093.py" />
+        <option value="$PROJECT_DIR$/习题094.py" />
+        <option value="$PROJECT_DIR$/习题095.py" />
+        <option value="$PROJECT_DIR$/习题096.py" />
+        <option value="$PROJECT_DIR$/习题097.py" />
+        <option value="$PROJECT_DIR$/习题099.py" />
+        <option value="$PROJECT_DIR$/习题098.py" />
         <option value="$PROJECT_DIR$/习题100.py" />
       </list>
     </option>
@@ -260,10 +239,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="94" />
-    <option name="y" value="62" />
+    <option name="x" value="93" />
+    <option name="y" value="61" />
     <option name="width" value="1484" />
-    <option name="height" value="1035" />
+    <option name="height" value="1036" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -287,7 +266,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -299,6 +277,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,8 +307,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.习题57_">
-    <configuration name="习题56_" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.习题100">
+    <configuration name="习题096" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -342,7 +321,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/习题56_.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/习题096.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,7 +330,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="习题57_" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="习题097" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,7 +343,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/习题57_.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/习题097.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,7 +352,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="习题79" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="习题098" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -386,7 +365,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/习题79.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/习题098.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,7 +374,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="习题80" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="习题099" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -408,7 +387,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/习题80.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/习题099.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -417,7 +396,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="习题81" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="习题100" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Exercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -430,7 +409,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/习题81.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/习题100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -440,19 +419,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.习题79" />
-      <item itemvalue="Python.习题80" />
-      <item itemvalue="Python.习题81" />
-      <item itemvalue="Python.习题56_" />
-      <item itemvalue="Python.习题57_" />
+      <item itemvalue="Python.习题096" />
+      <item itemvalue="Python.习题097" />
+      <item itemvalue="Python.习题098" />
+      <item itemvalue="Python.习题099" />
+      <item itemvalue="Python.习题100" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.习题57_" />
-        <item itemvalue="Python.习题56_" />
-        <item itemvalue="Python.习题81" />
-        <item itemvalue="Python.习题80" />
-        <item itemvalue="Python.习题79" />
+        <item itemvalue="Python.习题100" />
+        <item itemvalue="Python.习题099" />
+        <item itemvalue="Python.习题098" />
+        <item itemvalue="Python.习题097" />
+        <item itemvalue="Python.习题096" />
       </list>
     </recent_temporary>
   </component>
@@ -471,9 +450,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1753" height="954" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.19505009" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15026517" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -483,7 +463,7 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.32969698" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -502,336 +482,251 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/习题62.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题63_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题64_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题65_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="29" column="66" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题54_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题60.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题66.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题67.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题42_.py">
+    <entry file="file://$PROJECT_DIR$/习题038.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题68.py">
+    <entry file="file://$PROJECT_DIR$/习题037.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题036.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题035.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题034.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题033.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题032.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题031.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题027.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题026.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题028.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题69.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题69_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="56" lean-forward="true" selection-start-column="56" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题70.py">
+    <entry file="file://$PROJECT_DIR$/习题029.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/123.py" />
-    <entry file="file://$PROJECT_DIR$/api定时任务触发.py" />
-    <entry file="file://$PROJECT_DIR$/习题71.py">
+    <entry file="file://$PROJECT_DIR$/习题030.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题040.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题082.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="435">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题72.py">
+    <entry file="file://$PROJECT_DIR$/习题083.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题73.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题74.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题75_.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题76.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题77.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题78.py">
+    <entry file="file://$PROJECT_DIR$/习题085.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题79.py">
+    <entry file="file://$PROJECT_DIR$/习题084.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题80.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题81.py">
+    <entry file="file://$PROJECT_DIR$/习题086.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题43_.py">
+    <entry file="file://$PROJECT_DIR$/习题087.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题088.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题057_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题047.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题56_.py">
+    <entry file="file://$PROJECT_DIR$/习题089.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <marker date="1546940373523" expanded="true" signature="226:231" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题57_.py">
+    <entry file="file://$PROJECT_DIR$/习题090.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="54" lean-forward="true" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+        <state relative-caret-position="468">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题55_.py">
+    <entry file="file://$PROJECT_DIR$/习题095_.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题82.py">
+    <entry file="file://$PROJECT_DIR$/习题094.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="540">
+          <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题84.py">
+    <entry file="file://$PROJECT_DIR$/习题093.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题83.py">
+    <entry file="file://$PROJECT_DIR$/习题092.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题091.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题85.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题86.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题87.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题88.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题89.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题90.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题91.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题92.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题93.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题94.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题95.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题98.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题97.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题96.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题99.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/习题02.py">
+    <entry file="file://$PROJECT_DIR$/习题006.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/习题53_.py">
+    <entry file="file://$PROJECT_DIR$/习题007.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题008.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题003.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题004.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题002.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题010.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题011.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题012.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题013.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题014.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题015.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题016.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题017.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题001.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题009.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题096.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题097.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题098.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/习题099.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/习题100.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="126">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
